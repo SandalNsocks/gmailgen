@@ -1,0 +1,35 @@
+{
+  "name": "gmailgen",
+  "version": "1.0.0",
+  "description": "Gmail Gen for Sayso and Goat",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandalNsocks/gmailgen.git"
+  },
+  "keywords": [
+    "gmail"
+  ],
+  "author": "Sandal#5052",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandalNsocks/gmailgen/issues"
+  },
+  "homepage": "https://github.com/SandalNsocks/gmailgen#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "line-reader": "^0.4.0",
+    "puppeteer": "^5.3.0",
+    "puppeteer-page-proxy": "^1.2.8",
+    "random": "^2.2.0",
+    "readline": "^1.3.0",
+    "xlsx": "^0.16.7"
+  }
+}
